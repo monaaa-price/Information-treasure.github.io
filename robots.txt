@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://information-treasure.github.io/sitemap.xml
